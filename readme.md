@@ -2,6 +2,7 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Adolfo Capellades**, Git lover
+**Adolfo Capellades**, Git lover & Larry Plotter lover
+
 
 
